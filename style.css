@@ -1,3 +1,18 @@
-body {
-
+body{
+ background-color:#DFD3A5; 
+}
+h1{
+   color:black;
+   font-size:300%;
+   letter-spacing: 3px;
+   text-decoration-line: underline;
+   font-family: Fantasy, Copperplate;
+}
+p{
+  font-size:200%;
+  
+}
+img{
+  width:50%;
+  border:outset 10px;
 }
